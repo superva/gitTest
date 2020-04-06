@@ -1,2 +1,2 @@
-just a conflic test!
+just a remote conflic test!
 
